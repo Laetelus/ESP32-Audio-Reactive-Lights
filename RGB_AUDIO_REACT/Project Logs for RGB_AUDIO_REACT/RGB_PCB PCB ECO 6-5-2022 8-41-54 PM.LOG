@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=LIGHTS NewDesignator=P2
+Change Component Designator: OldDesignator=MIC NewDesignator=P3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Room: Name=RGB_SCHEMATIC

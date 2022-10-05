@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+C:\Users\angel\Dropbox\Altium Projects\ESP32 RGB\RGB_AUDIO_REACT\Project Outputs for RGB_AUDIO_REACT\Pick Place for RGB_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/09/22
+Time:       16:32
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C1","22uF","TopLayer","FP-1206-L_3_2_0_2-W_1_6_0-IPC_C","4570.000","3545.000","270","General Purpose Ceramic Capacitor, 1206, 22uF, 10%, X5R, 15%, 16V"
+"C5","100nF","TopLayer","FP-1206-L_3_2_0_2-W_1_6_0-MFG","3120.000","3135.000","270","General Purpose Ceramic Capacitor, 1206, 100nF, 10%, X7R, 15%, 50V"
+"U1","AMS1117-3.3","TopLayer","FP-AMS1117-IPC_C","4130.000","2340.000","90","LDO Voltage Regulators 1A, 3.3V"
+"ST4","PTH-M2D5X5","TopLayer","PTH-M2D5X5","4500.000","2155.000","0","M2 PTH (2.5mm), 5mm pad"
+"ST3","PTH-M2D5X5","TopLayer","PTH-M2D5X5","2975.000","3560.000","0","M2 PTH (2.5mm), 5mm pad"
+"ST2","PTH-M2D5X5","TopLayer","PTH-M2D5X5","2975.000","2155.000","0","M2 PTH (2.5mm), 5mm pad"
+"R3","Resistor 10k +/-1% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","3005.472","3195.000","180","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)"
+"R2","Resistor 2K +/-5 % 0402 63 mW","TopLayer","RESC0402(1005)_L","4395.000","2357.716","90","Chip Resistor, 2 kOhms, +/-5 %, 63 mW, -55 to 155 degC, 0402"
+"R1","Resistor 2K +/-5 % 0402 63 mW","TopLayer","RESC0402(1005)_L","3930.000","2565.000","180","Chip Resistor, 2 kOhms, +/-5 %, 63 mW, -55 to 155 degC, 0402"
+"P1","PROG. HEADER","TopLayer","HDR2X3_CEN","4305.000","3545.000","180","Header, 3-Pin, Dual row"
+"P4","SWITCH","TopLayer","HDR1X3","4395.000","2565.000","180","Header, 3-Pin"
+"RGB","LIGHTS","TopLayer","HDR1X3","3115.000","2980.000","0","Header, 3-Pin"
+"MIC","MAX4466","TopLayer","HDR1X3","3305.000","2120.000","0","Header, 3-Pin"
+"MINI-360","MINI-360","TopLayer","MINI-360","4405.000","3025.000","90",""
+"MD1","ESP32-WROOM-32","TopLayer","FP-ESP32-WROOM-32-MFG","3685.000","3010.945","0","RX TXRX MOD WIFI SURFACE MOUNT"
+"J1","473460001","TopLayer","FP-473460001-MFG","3687.067","2105.984","0","CONN RCPT USB2.0 MICRO B SMD R/A"
+"DS2","LED BLUE","TopLayer","VISH-TLMX1100-2_V","3920.000","2515.000","180","Blue LED, 10 mA, 3.9 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
+"DS1","LED RED","TopLayer","LTST-C191KRKT_V","4455.000","2369.528","90","LED Uni-Color Red, 62.5 mW, 25 mA, -30 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"C4","22uF","TopLayer","FP-1206-L_3_2_0_2-W_1_6_0-IPC_C","3225.000","3356.212","90","General Purpose Ceramic Capacitor, 1206, 22uF, 10%, X5R, 15%, 16V"
+"C3","100nF","TopLayer","FP-1206-L_3_2_0_2-W_1_6_0-MFG","2985.000","3364.055","90","General Purpose Ceramic Capacitor, 1206, 100nF, 10%, X7R, 15%, 50V"
+"C2","22uF","TopLayer","FP-1206-L_3_2_0_2-W_1_6_0-IPC_C","3110.000","3356.212","90","General Purpose Ceramic Capacitor, 1206, 22uF, 10%, X5R, 15%, 16V"

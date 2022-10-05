@@ -1,0 +1,17 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"22uF","General Purpose Ceramic Capacitor, 1206, 22uF, 10%, X5R, 15%, 16V","C1, C2, C4","FP-1206-L_3_2_0_2-W_1_6_0-IPC_C","CMP-1037-04992-2","3"
+"100nF","General Purpose Ceramic Capacitor, 1206, 100nF, 10%, X7R, 15%, 50V","C3, C5","FP-1206-L_3_2_0_2-W_1_6_0-MFG","CMP-2000-05018-2","2"
+"LED RED","LED Uni-Color Red, 62.5 mW, 25 mA, -30 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel","DS1","LTST-C191KRKT_V","CMP-007-00024-2","1"
+"LED BLUE","Blue LED, 10 mA, 3.9 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel","DS2","VISH-TLMX1100-2_V","CMP-007-00028-2","1"
+"473460001","CONN RCPT USB2.0 MICRO B SMD R/A","J1","FP-473460001-MFG","CMP-2000-05246-2","1"
+"ESP32-WROOM-32","RX TXRX MOD WIFI SURFACE MOUNT","MD1","FP-ESP32-WROOM-32-MFG","CMP-194065-000008-1","1"
+"MAX4466","Header, 3-Pin","MIC","HDR1X3","Header 3","1"
+"MINI-360","","MINI-360","MINI-360","CMP-004-000006-1","1"
+"PROG. HEADER","Header, 3-Pin, Dual row","P1","HDR2X3_CEN","Header 3X2A","1"
+"SWITCH","Header, 3-Pin","P4","HDR1X3","Header 3","1"
+"Resistor 2K +/-5 % 0402 63 mW","Chip Resistor, 2 kOhms, +/-5 %, 63 mW, -55 to 155 degC, 0402","R1, R2","RESC0402(1005)_L","CMP-009-00138-3","2"
+"Resistor 10k +/-1% 0603 100 mW","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","R3","RESC1608X55X25ML10T15","CMP-009-00017-5","1"
+"LIGHTS","Header, 3-Pin","RGB","HDR1X3","Header 3","1"
+"PTH-M2D5X5","M2 PTH (2.5mm), 5mm pad","ST2, ST3, ST4","PTH-M2D5X5","CMP-00028-00004-2","3"
+"AMS1117-3.3","LDO Voltage Regulators 1A, 3.3V","U1","FP-AMS1117-IPC_C","CMP-209535-000001-1","1"

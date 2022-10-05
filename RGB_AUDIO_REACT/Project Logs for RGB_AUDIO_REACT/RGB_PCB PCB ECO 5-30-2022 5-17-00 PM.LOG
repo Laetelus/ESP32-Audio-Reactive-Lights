@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=MIC NewDesignator=P2
+Added Pin To Net: NetName=+5 Pin=P1-6
+Added Room: Name=RGB_SCHEMATIC

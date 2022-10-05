@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetMINI-360_3 Pin=MINI-360-1
+Removed Pin From Net: NetName=GND Pin=MINI-360-3
+Removed Pin From Net: NetName=GND Pin=ST1-1
+Removed Pin From Net: NetName=3V3 Pin=U1-
+Removed Member From Class: ClassName=RGB_SCHEMATIC Member=ST1
+Change Component Designator: OldDesignator=LIGHTS NewDesignator=P3
+Change Component Designator: OldDesignator=MIC NewDesignator=P2
+Added Pin To Net: NetName=GND Pin=MINI-360-1
+Added Pin To Net: NetName=NetMINI-360_3 Pin=MINI-360-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Member To Class: ClassName=RGB_SCHEMATIC Member=Component C1 22uF
+Added Room: Name=RGB_SCHEMATIC

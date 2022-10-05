@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetMINI-360_3 Pin=MINI-360-1
+Removed Pin From Net: NetName=GND Pin=MINI-360-3
+Change Component Designator: OldDesignator=LIGHTS NewDesignator=P3
+Change Component Designator: OldDesignator=MIC NewDesignator=P2
+Change Component Designator: OldDesignator=SW NewDesignator=P4
+Added Component: Designator=ST1(PTH-M2D5X5)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ST2(PTH-M2D5X5)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ST3(PTH-M2D5X5)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ST4(PTH-M2D5X5)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MINI-360-1
+Added Pin To Net: NetName=NetMINI-360_3 Pin=MINI-360-3
+Added Pin To Net: NetName=GND Pin=ST1-1
+Added Pin To Net: NetName=GND Pin=ST2-1
+Added Pin To Net: NetName=GND Pin=ST3-1
+Added Pin To Net: NetName=GND Pin=ST4-1
+Added Member To Class: ClassName=RGB_SCHEMATIC Member=Component ST1 PTH-M2DX5
+Added Member To Class: ClassName=RGB_SCHEMATIC Member=Component ST2 PTH-M2DX5
+Added Member To Class: ClassName=RGB_SCHEMATIC Member=Component ST3 PTH-M2DX5
+Added Member To Class: ClassName=RGB_SCHEMATIC Member=Component ST4 PTH-M2DX5
+Added Room: Name=RGB_SCHEMATIC

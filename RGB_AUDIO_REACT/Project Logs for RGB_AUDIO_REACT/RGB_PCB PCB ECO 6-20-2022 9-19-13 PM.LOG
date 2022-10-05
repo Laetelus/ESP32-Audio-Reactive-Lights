@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetMINI-360_3 Pin=MINI-360-1
+Removed Pin From Net: NetName=GND Pin=MINI-360-3
+Added Pin To Net: NetName=GND Pin=MINI-360-1
+Added Pin To Net: NetName=NetMINI-360_3 Pin=MINI-360-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Room: Name=RGB_SCHEMATIC

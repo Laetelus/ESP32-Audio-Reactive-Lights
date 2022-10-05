@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetMINI-360_3 Pin=P4-1
+Change Component Designator: OldDesignator=LIGHTS NewDesignator=P3
+Change Component Designator: OldDesignator=MIC NewDesignator=P2
+Added Pin To Net: NetName=NetMINI-360_3 Pin=P4-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Member To Class: ClassName=RGB_SCHEMATIC Member=Component P2 MAX4466
+Added Room: Name=RGB_SCHEMATIC

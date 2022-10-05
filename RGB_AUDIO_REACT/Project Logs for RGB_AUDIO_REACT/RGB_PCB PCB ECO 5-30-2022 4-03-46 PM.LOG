@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5V Pin=MIC-3
+Change Component Designator: OldDesignator=LIGHTS NewDesignator=P3
+Change Component Designator: OldDesignator=MIC NewDesignator=P2
+Change Component Designator: OldDesignator=SW NewDesignator=P4
+Added Pin To Net: NetName=3V3 Pin=P2-3
+Added Room: Name=RGB_SCHEMATIC
