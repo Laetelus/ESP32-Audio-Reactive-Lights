@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/72906227/194121727-60a2adef-501a-4075-
   The max current for 150 light strips is about 4.3 amps. If you wish to add more lights, the buck converter will be necessary.
 - [Buck Converter](https://www.amazon.com/10pcs-Mini360-Voltage-Converter-Module/dp/B07T7L51ZW/ref=sr_1_4?crid=2RB9P9Z9X180Q&keywords=mini+360+buck+converter&qid=1664990655&qu=eyJxc2MiOiIzLjU4IiwicXNhIjoiMy41NiIsInFzcCI6IjMuMzIifQ%3D%3D&sprefix=mini+360+bu%2Caps%2C117&sr=8-4)
  
- In case you want to make a housing for this module.  
+ In case you would like a housing but need something more secure. 
 - [USB to Barrel Jack](https://www.amazon.com/Adafruit-MicroUSB-Barrel-Adapter-ADA2727/dp/B01GQFVMBI)
 
 # Code
